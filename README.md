@@ -10,7 +10,7 @@ Similar to the physical card game, this digital version is local multiplayer onl
 
 
 ## Running/Playing the game:
-- https://hlee50.github.io/flip7/
+- https://hlee34.github.io/flip7/
 
 - Alternatively, you can run this locally by using the command `python3 -m http.server 8000` from the project directory and navigating to http://localhost:8000
 
